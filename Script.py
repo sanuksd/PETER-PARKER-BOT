@@ -2,19 +2,27 @@ class script(object):
     HELP_TXT = """𝙷𝙴𝚈 {}\n𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
 
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴 : {}
-✯ Lɪʙʀᴀʀʏ: Pʏʀᴏɢʀᴀᴍ
-✯ Dᴇᴠᴏʟᴏᴘᴇʀ: <a href=http://t.me/Thisis_sanu>𝐒ል𝐍ሁ❀</a>
-✯ Lᴀɴɢᴜᴀɢᴇ: Pʏᴛʜᴏɴ 3
-✯ DᴀᴛᴀBᴀsᴇ: MᴏɴɢᴏDB
-✯ Bᴏᴛ Sᴇʀᴠᴇʀ: Hᴇʀᴜᴋᴜ ᴘᴀɪᴅ
-✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs: v2.0.3"""
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/king_of_psycho>KUNJAPPAN</a>
 
-    SOURCE_TXT = """<b>NOTE:</b>
-- 𝚂𝙾𝚄𝚁𝙲𝙴 𝙲𝙾𝙳𝙴 𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁 👉 :<a href=https://t.me/sanufilterv1_botgrp>Aʀᴀᴋᴋᴀʟ Aʙᴜ</a>
+✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 
-<b>DEVS:</b>
-- 𝙳𝚎𝚟  <a href=https://t.me/Thisis_sanu>Sanu</a>"""
+✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 
+✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
+
+✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: 𝙷𝙴𝚁𝙾𝙺𝚄
+
+✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v2.0.2 [ 𝙱𝙴𝚃𝙰 ]"""
+
+    SOURCE_TXT = """<b>ᴺᴼᵀᴱ:</b>
+
+- <a href='https://t.me/Lucifer_filter_bot'>ʟᴜᴄɪғᴇʀ</a> Is A Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.  
+
+- Sᴏᴜʀᴄᴇ - <a href='https://t.me/kgf_2_movie_r'>Cʟɪᴄᴋ Mᴇ</a>
+
+<b>Dᴇᴠs:</b>
+
+- <a href=https://t.me/kunjappansupportez>Tᴇᴀᴍ ᴋᴜɴᴊᴀᴘᴘᴀɴ</a>"""
 
     FILE_TXT = """➤ 𝐇𝐞𝐥𝐩: 𝐅𝐢𝐥𝐞 𝐒𝐭𝐨𝐫𝐞 𝐌𝐨𝐝𝐮𝐥𝐞../
 
@@ -327,7 +335,7 @@ Delete A Lot Of Messages From Groups!
 • /share - 𝚁𝚎𝚙𝚕𝚢 𝚆𝚒𝚝𝚑 𝙰𝚗𝚢 𝚃𝚎𝚡𝚝 𝚃𝚘 𝚂𝚎𝚗𝚍 𝚃𝚑𝚒𝚜 𝙲𝚘𝚖𝚖𝚊𝚗𝚍 """
    
     DISCLAIMER_TXT = """DISCLAIMER NOTE‼️:
-- @Sm_Arakkal_abu_bot is an Open Source Project.
+- @Lucifer_filter_bot is an Open Source Project.
 All the files in this bot are freely available on the internet or posted by somebody else. 
 This bot is indexing files which are already uploaded on Telegram for easy of searching, We respect all the copyright laws and works in compliance with DMCA and EUCD. 
 If anything is against law please contact us so that it can be removed asap. 
