@@ -847,9 +847,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
              InlineKeyboardButton('DISCLAIMER', callback_data='disclaimer')
         ],  [
 
-            InlineKeyboardButton('⚡ GROUP ⚡', url='https://t.me/+TSfOKFwpmZE4OWQ1'),
+            InlineKeyboardButton('⚡ GROUP ⚡', url='https://t.me/MOVIEBRANTHANZ'),
 
-            InlineKeyboardButton('🤖 CHANNEL 🤖', url='https://t.me/+cDIjx6c8NcdlNmM5')
+            InlineKeyboardButton('🤖 CHANNEL 🤖', url='https://t.me/kunjappansupportez')
 
         ], [
 
@@ -945,7 +945,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "disclaimer":
         buttons= [[
-            InlineKeyboardButton(' Admin ', url='https://t.me/Thisis_sanu')
+            InlineKeyboardButton(' Admin ', url='https://t.me/KING_OF_PSYCHO')
             ],[
             InlineKeyboardButton('🏠 𝙷𝙾𝙼𝙴 🏠', callback_data='start'),
             InlineKeyboardButton('🔐 𝙲𝙻𝙾𝚂𝙴 🔐', callback_data='close_data')
@@ -971,7 +971,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('ABOUT ME', url='https://t.me/sanufilterv1_botgrp')
+            InlineKeyboardButton('ABOUT ME', url='https://t.me/kunjappansupportez')
             ],[
             InlineKeyboardButton('👩‍🦯 Back', callback_data='about')
         ]]
